@@ -1,0 +1,614 @@
+./obj/local/armeabi-v7a/objs/turan/vendor/RakNet/RakPeer.o: \
+  jni\vendor\RakNet\RakPeer.cpp jni\vendor\RakNet\RakNetDefines.h \
+  jni\vendor\RakNet\RakPeer.h jni\vendor\RakNet\Export.h \
+  jni\vendor\RakNet\RakPeerInterface.h \
+  jni\vendor\RakNet\PacketPriority.h jni\vendor\RakNet\NetworkTypes.h \
+  jni\vendor\RakNet\ReliabilityLayer.h jni\vendor\RakNet\SocketLayer.h \
+  jni\vendor\RakNet\ClientContextStruct.h jni\vendor\RakNet\MTUSize.h \
+  jni\vendor\RakNet\DS_LinkedList.h jni\vendor\RakNet\DS_List.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\string.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__config \
+  jni\vendor\RakNet\DS_Queue.h jni\vendor\RakNet\BitStream.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\math.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\float.h \
+  jni\vendor\RakNet\InternalPacket.h \
+  jni\vendor\RakNet\InternalPacketPool.h \
+  jni\vendor\RakNet\DataBlockEncryptor.h jni\vendor\RakNet\rijndael.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h \
+  jni\vendor\RakNet\RakNetStatistics.h jni\vendor\RakNet\SHA1.h \
+  jni\vendor\RakNet\Types.h jni\vendor\RakNet\DS_OrderedList.h \
+  jni\vendor\RakNet\DS_RangeList.h jni\vendor\RakNet\DS_BPlusTree.h \
+  jni\vendor\RakNet\DS_MemoryPool.h jni\vendor\RakNet\RPCNode.h \
+  jni\vendor\RakNet\RSACrypt.h jni\vendor\RakNet\BigTypes.h \
+  jni\vendor\RakNet\Rand.h jni\vendor\RakNet\SingleProducerConsumer.h \
+  jni\vendor\RakNet\RPCMap.h jni\vendor\RakNet\SimpleMutex.h \
+  jni\vendor\RakNet\DS_QueueLinkedList.h \
+  jni\vendor\RakNet\..\\..\\main.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstdlib \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\string \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\string_view \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__string \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\algorithm \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\initializer_list \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\type_traits \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstring \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\utility \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__tuple \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstdint \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\version \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__debug \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\iosfwd \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\wchar.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\memory \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\typeinfo \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\exception \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\new \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\limits \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\iterator \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__functional_base \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\tuple \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stdexcept \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cassert \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\atomic \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\functional \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\bit \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstdio \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cwchar \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cwctype \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cctype \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\wctype.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\vector \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__bit_reference \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\climits \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\limits.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__split_buffer \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\list \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\sstream \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ostream \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ios \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__locale \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\mutex \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__mutex_base \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\chrono \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ctime \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ratio \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\system_error \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__errc \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cerrno \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\errno.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__threading_support \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\locale.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\support\android\locale_bionic.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\support\xlocale\__posix_l_fallback.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\streambuf \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\locale \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstdarg \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__bsd_locale_fallbacks.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\bitset \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\istream \
+  jni\game\RW\common.h jni\vendor\obfuscate\str_obfuscate.hpp \
+  jni\vendor\raknet\SAMP\samp_netencr.h jni\vendor\raknet\SAMP\SAMPRPC.h \
+  jni\util\util.h jni\vendor\RakNet\GetTime.h \
+  jni\vendor\RakNet\PacketEnumerations.h \
+  jni\vendor\RakNet\DS_HuffmanEncodingTree.h \
+  jni\vendor\RakNet\DS_HuffmanEncodingTreeNode.h \
+  jni\vendor\RakNet\PluginInterface.h \
+  jni\vendor\RakNet\StringCompressor.h jni\vendor\RakNet\DS_Map.h \
+  jni\vendor\RakNet\StringTable.h jni\vendor\RakNet\NetworkIDGenerator.h \
+  jni\vendor\RakNet\DS_BinarySearchTree.h jni\vendor\RakNet\RakSleep.h \
+  jni\vendor\RakNet\RouterInterface.h jni\vendor\RakNet\RakAssert.h \
+  jni\game\RW\common.h jni\vendor\RakNet\..\..\main.h \
+  jni\vendor\RakNet\..\..\game\game.h \
+  jni\vendor\RakNet\..\..\game\rgba.h \
+  jni\vendor\RakNet\..\..\game\RW\common.h \
+  jni\vendor\RakNet\..\..\game\aimstuff.h \
+  jni\vendor\RakNet\..\..\game\pad.h \
+  jni\vendor\RakNet\..\..\game\quaternion.h \
+  jni\vendor\RakNet\..\..\game\entity.h \
+  jni\vendor\RakNet\..\..\game\playerped.h \
+  jni\vendor\RakNet\..\..\game\CRemoteData.h \
+  jni\vendor\RakNet\..\..\game\CStats.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\map \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__tree \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__node_handle \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\optional \
+  jni\vendor\RakNet\..\..\game\vehicle.h \
+  jni\vendor\RakNet\..\..\game\object.h \
+  jni\vendor\RakNet\..\..\game\RW\RenderWare.h jni\game\RW\skeleton.h \
+  jni\game\RW\rwcore.h jni\game\RW\rwplcore.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stddef.h \
+  jni\game\RW\errcore.def jni\game\RW\errcom.def jni\game\RW\rpcriter.h \
+  jni\game\RW\rperror.h jni\game\RW\rphanim.h jni\game\RW\rpworld.h \
+  jni\game\RW\rtquat.h jni\game\RW\rtanim.h jni\game\RW\rpmatfx.h \
+  jni\game\RW\rpskin.h jni\game\RW\rpuvanim.h jni\game\RW\rtdict.h \
+  jni\vendor\RakNet\..\..\game\camera.h \
+  jni\vendor\RakNet\..\..\game\font.h jni\game\rgba.h \
+  jni\vendor\RakNet\..\..\game\scripting.h \
+  jni\vendor\RakNet\..\..\game\radarcolors.h \
+  jni\vendor\RakNet\..\..\game\util.h \
+  jni\vendor\RakNet\..\..\game\textdraw.h \
+  jni\vendor\RakNet\..\..\game\sprite2d.h \
+  jni\vendor\RakNet\..\..\game\widget.h \
+  jni\vendor\RakNet\..\..\game\widgetmanager.h \
+  jni\vendor\RakNet\..\..\game\stream.h \
+  jni\vendor\RakNet\..\..\game\..\\vendor\bass\bass.h \
+  jni\vendor\RakNet\..\..\game\CHandlingDefault.h \
+  jni\vendor\RakNet\..\..\game\CActorPed.h \
+  jni\vendor\RakNet\..\..\game\CExtendedCarColors.h \
+  jni\vendor\RakNet\..\..\game\CWeaponsOutFit.h \
+  jni\vendor\RakNet\..\..\game\CRadarRect.h \
+  jni\vendor\RakNet\..\..\game\CAdjustableHudColors.h \
+  jni\vendor\RakNet\..\..\game\CAdjustableHudPosition.h \
+  jni\vendor\RakNet\..\..\game\CInfoBarText.h \
+  jni\vendor\RakNet\..\..\game\CAdjustableHudScale.h \
+  jni\vendor\RakNet\..\..\game\CFirstPersonCamera.h \
+  jni\vendor\RakNet\..\..\game\CSnow.h \
+  jni\vendor\RakNet\..\..\game\snapshothelper.h \
+  jni\vendor\RakNet\..\..\game\CClothesTextureManager.h \
+  jni\vendor\RakNet\..\..\\util\armhook.h \
+  jni\vendor\RakNet\..\..\\net\netgame.h \
+  jni\vendor\RakNet\..\..\\net\..\vendor\raknet\RakClientInterface.h \
+  jni\vendor\RakNet\..\..\\net\..\vendor\raknet\RakNetworkFactory.h \
+  jni\vendor\RakNet\..\..\\net\..\vendor\raknet\PacketEnumerations.h \
+  jni\vendor\RakNet\..\..\\net\..\vendor\raknet\StringCompressor.h \
+  jni\vendor\RakNet\..\..\\net\localplayer.h \
+  jni\vendor\RakNet\..\..\\net\remoteplayer.h \
+  jni\vendor\RakNet\..\..\\net\..\vendor\raknet\rijndael.h \
+  jni\vendor\RakNet\..\..\\net\playerpool.h \
+  jni\vendor\RakNet\..\..\\net\vehiclepool.h \
+  jni\vendor\RakNet\..\..\\net\gangzonepool.h \
+  jni\vendor\RakNet\..\..\\net\objectpool.h \
+  jni\vendor\RakNet\..\..\\net\pickuppool.h \
+  jni\vendor\RakNet\..\..\\net\textlabelpool.h \
+  jni\vendor\RakNet\..\..\\net\textdrawpool.h \
+  jni\vendor\RakNet\..\..\\net\..\\gui\ITouchListener.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\thread \
+  jni\vendor\RakNet\..\..\\net\streampool.h \
+  jni\vendor\RakNet\..\..\\net\..\\vendor\bass\bass.h \
+  jni\vendor\RakNet\..\..\\net\..\\vendor\raknet\SingleProducerConsumer.h \
+  jni\vendor\RakNet\..\..\\net\CActorPool.h \
+  jni\vendor\RakNet\..\..\\CClientInfo.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\iostream \
+  jni\main.h jni\game\game.h jni\net\netgame.h \
+  jni\vendor\RakNet\..\\..\\cryptors\SERVER_CHECK1_result.h \
+  jni\vendor\RakNet\..\\..\\cryptors\..\util\armhook.h \
+  jni\vendor\RakNet\..\\..\\cryptors\SERVER_CHECK2_result.h \
+  jni\vendor\RakNet\..\\..\\..\\santrope-tea-gtasa\encryption\CTEA.h \
+  jni\vendor\RakNet\..\\..\\..\\santrope-tea-gtasa\encryption\common.h \
+  jni\vendor\RakNet\..\\..\\net\netgame.h
+
+jni\vendor\RakNet\RakNetDefines.h:
+
+jni\vendor\RakNet\RakPeer.h:
+
+jni\vendor\RakNet\Export.h:
+
+jni\vendor\RakNet\RakPeerInterface.h:
+
+jni\vendor\RakNet\PacketPriority.h:
+
+jni\vendor\RakNet\NetworkTypes.h:
+
+jni\vendor\RakNet\ReliabilityLayer.h:
+
+jni\vendor\RakNet\SocketLayer.h:
+
+jni\vendor\RakNet\ClientContextStruct.h:
+
+jni\vendor\RakNet\MTUSize.h:
+
+jni\vendor\RakNet\DS_LinkedList.h:
+
+jni\vendor\RakNet\DS_List.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\string.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__config:
+
+jni\vendor\RakNet\DS_Queue.h:
+
+jni\vendor\RakNet\BitStream.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\math.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\float.h:
+
+jni\vendor\RakNet\InternalPacket.h:
+
+jni\vendor\RakNet\InternalPacketPool.h:
+
+jni\vendor\RakNet\DataBlockEncryptor.h:
+
+jni\vendor\RakNet\rijndael.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h:
+
+jni\vendor\RakNet\RakNetStatistics.h:
+
+jni\vendor\RakNet\SHA1.h:
+
+jni\vendor\RakNet\Types.h:
+
+jni\vendor\RakNet\DS_OrderedList.h:
+
+jni\vendor\RakNet\DS_RangeList.h:
+
+jni\vendor\RakNet\DS_BPlusTree.h:
+
+jni\vendor\RakNet\DS_MemoryPool.h:
+
+jni\vendor\RakNet\RPCNode.h:
+
+jni\vendor\RakNet\RSACrypt.h:
+
+jni\vendor\RakNet\BigTypes.h:
+
+jni\vendor\RakNet\Rand.h:
+
+jni\vendor\RakNet\SingleProducerConsumer.h:
+
+jni\vendor\RakNet\RPCMap.h:
+
+jni\vendor\RakNet\SimpleMutex.h:
+
+jni\vendor\RakNet\DS_QueueLinkedList.h:
+
+jni\vendor\RakNet\..\\..\\main.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstdlib:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\string:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\string_view:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__string:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\algorithm:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\initializer_list:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\type_traits:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstring:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\utility:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__tuple:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstdint:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\version:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__debug:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\iosfwd:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\wchar.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\memory:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\typeinfo:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\exception:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\new:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\limits:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\iterator:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__functional_base:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\tuple:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stdexcept:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cassert:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\atomic:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\functional:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\bit:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstdio:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cwchar:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cwctype:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cctype:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\wctype.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\vector:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__bit_reference:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\climits:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\limits.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__split_buffer:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\list:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\sstream:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ostream:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ios:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__locale:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\mutex:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__mutex_base:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\chrono:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ctime:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ratio:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\system_error:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__errc:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cerrno:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\errno.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__threading_support:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\locale.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\support\android\locale_bionic.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\support\xlocale\__posix_l_fallback.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\streambuf:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\locale:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstdarg:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__bsd_locale_fallbacks.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\bitset:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\istream:
+
+jni\game\RW\common.h:
+
+jni\vendor\obfuscate\str_obfuscate.hpp:
+
+jni\vendor\raknet\SAMP\samp_netencr.h:
+
+jni\vendor\raknet\SAMP\SAMPRPC.h:
+
+jni\util\util.h:
+
+jni\vendor\RakNet\GetTime.h:
+
+jni\vendor\RakNet\PacketEnumerations.h:
+
+jni\vendor\RakNet\DS_HuffmanEncodingTree.h:
+
+jni\vendor\RakNet\DS_HuffmanEncodingTreeNode.h:
+
+jni\vendor\RakNet\PluginInterface.h:
+
+jni\vendor\RakNet\StringCompressor.h:
+
+jni\vendor\RakNet\DS_Map.h:
+
+jni\vendor\RakNet\StringTable.h:
+
+jni\vendor\RakNet\NetworkIDGenerator.h:
+
+jni\vendor\RakNet\DS_BinarySearchTree.h:
+
+jni\vendor\RakNet\RakSleep.h:
+
+jni\vendor\RakNet\RouterInterface.h:
+
+jni\vendor\RakNet\RakAssert.h:
+
+jni\game\RW\common.h:
+
+jni\vendor\RakNet\..\..\main.h:
+
+jni\vendor\RakNet\..\..\game\game.h:
+
+jni\vendor\RakNet\..\..\game\rgba.h:
+
+jni\vendor\RakNet\..\..\game\RW\common.h:
+
+jni\vendor\RakNet\..\..\game\aimstuff.h:
+
+jni\vendor\RakNet\..\..\game\pad.h:
+
+jni\vendor\RakNet\..\..\game\quaternion.h:
+
+jni\vendor\RakNet\..\..\game\entity.h:
+
+jni\vendor\RakNet\..\..\game\playerped.h:
+
+jni\vendor\RakNet\..\..\game\CRemoteData.h:
+
+jni\vendor\RakNet\..\..\game\CStats.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\map:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__tree:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__node_handle:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\optional:
+
+jni\vendor\RakNet\..\..\game\vehicle.h:
+
+jni\vendor\RakNet\..\..\game\object.h:
+
+jni\vendor\RakNet\..\..\game\RW\RenderWare.h:
+
+jni\game\RW\skeleton.h:
+
+jni\game\RW\rwcore.h:
+
+jni\game\RW\rwplcore.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stddef.h:
+
+jni\game\RW\errcore.def:
+
+jni\game\RW\errcom.def:
+
+jni\game\RW\rpcriter.h:
+
+jni\game\RW\rperror.h:
+
+jni\game\RW\rphanim.h:
+
+jni\game\RW\rpworld.h:
+
+jni\game\RW\rtquat.h:
+
+jni\game\RW\rtanim.h:
+
+jni\game\RW\rpmatfx.h:
+
+jni\game\RW\rpskin.h:
+
+jni\game\RW\rpuvanim.h:
+
+jni\game\RW\rtdict.h:
+
+jni\vendor\RakNet\..\..\game\camera.h:
+
+jni\vendor\RakNet\..\..\game\font.h:
+
+jni\game\rgba.h:
+
+jni\vendor\RakNet\..\..\game\scripting.h:
+
+jni\vendor\RakNet\..\..\game\radarcolors.h:
+
+jni\vendor\RakNet\..\..\game\util.h:
+
+jni\vendor\RakNet\..\..\game\textdraw.h:
+
+jni\vendor\RakNet\..\..\game\sprite2d.h:
+
+jni\vendor\RakNet\..\..\game\widget.h:
+
+jni\vendor\RakNet\..\..\game\widgetmanager.h:
+
+jni\vendor\RakNet\..\..\game\stream.h:
+
+jni\vendor\RakNet\..\..\game\..\\vendor\bass\bass.h:
+
+jni\vendor\RakNet\..\..\game\CHandlingDefault.h:
+
+jni\vendor\RakNet\..\..\game\CActorPed.h:
+
+jni\vendor\RakNet\..\..\game\CExtendedCarColors.h:
+
+jni\vendor\RakNet\..\..\game\CWeaponsOutFit.h:
+
+jni\vendor\RakNet\..\..\game\CRadarRect.h:
+
+jni\vendor\RakNet\..\..\game\CAdjustableHudColors.h:
+
+jni\vendor\RakNet\..\..\game\CAdjustableHudPosition.h:
+
+jni\vendor\RakNet\..\..\game\CInfoBarText.h:
+
+jni\vendor\RakNet\..\..\game\CAdjustableHudScale.h:
+
+jni\vendor\RakNet\..\..\game\CFirstPersonCamera.h:
+
+jni\vendor\RakNet\..\..\game\CSnow.h:
+
+jni\vendor\RakNet\..\..\game\snapshothelper.h:
+
+jni\vendor\RakNet\..\..\game\CClothesTextureManager.h:
+
+jni\vendor\RakNet\..\..\\util\armhook.h:
+
+jni\vendor\RakNet\..\..\\net\netgame.h:
+
+jni\vendor\RakNet\..\..\\net\..\vendor\raknet\RakClientInterface.h:
+
+jni\vendor\RakNet\..\..\\net\..\vendor\raknet\RakNetworkFactory.h:
+
+jni\vendor\RakNet\..\..\\net\..\vendor\raknet\PacketEnumerations.h:
+
+jni\vendor\RakNet\..\..\\net\..\vendor\raknet\StringCompressor.h:
+
+jni\vendor\RakNet\..\..\\net\localplayer.h:
+
+jni\vendor\RakNet\..\..\\net\remoteplayer.h:
+
+jni\vendor\RakNet\..\..\\net\..\vendor\raknet\rijndael.h:
+
+jni\vendor\RakNet\..\..\\net\playerpool.h:
+
+jni\vendor\RakNet\..\..\\net\vehiclepool.h:
+
+jni\vendor\RakNet\..\..\\net\gangzonepool.h:
+
+jni\vendor\RakNet\..\..\\net\objectpool.h:
+
+jni\vendor\RakNet\..\..\\net\pickuppool.h:
+
+jni\vendor\RakNet\..\..\\net\textlabelpool.h:
+
+jni\vendor\RakNet\..\..\\net\textdrawpool.h:
+
+jni\vendor\RakNet\..\..\\net\..\\gui\ITouchListener.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\thread:
+
+jni\vendor\RakNet\..\..\\net\streampool.h:
+
+jni\vendor\RakNet\..\..\\net\..\\vendor\bass\bass.h:
+
+jni\vendor\RakNet\..\..\\net\..\\vendor\raknet\SingleProducerConsumer.h:
+
+jni\vendor\RakNet\..\..\\net\CActorPool.h:
+
+jni\vendor\RakNet\..\..\\CClientInfo.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\iostream:
+
+jni\main.h:
+
+jni\game\game.h:
+
+jni\net\netgame.h:
+
+jni\vendor\RakNet\..\\..\\cryptors\SERVER_CHECK1_result.h:
+
+jni\vendor\RakNet\..\\..\\cryptors\..\util\armhook.h:
+
+jni\vendor\RakNet\..\\..\\cryptors\SERVER_CHECK2_result.h:
+
+jni\vendor\RakNet\..\\..\\..\\santrope-tea-gtasa\encryption\CTEA.h:
+
+jni\vendor\RakNet\..\\..\\..\\santrope-tea-gtasa\encryption\common.h:
+
+jni\vendor\RakNet\..\\..\\net\netgame.h:

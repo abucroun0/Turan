@@ -1,0 +1,303 @@
+./obj/local/armeabi-v7a/objs/turan/vendor/RakNet/ReliabilityLayer.o: \
+  jni\vendor\RakNet\ReliabilityLayer.cpp \
+  jni\vendor\RakNet\ReliabilityLayer.h jni\vendor\RakNet\SocketLayer.h \
+  jni\vendor\RakNet\ClientContextStruct.h \
+  jni\vendor\RakNet\NetworkTypes.h jni\vendor\RakNet\RakNetDefines.h \
+  jni\vendor\RakNet\Export.h jni\vendor\RakNet\MTUSize.h \
+  jni\vendor\RakNet\DS_LinkedList.h jni\vendor\RakNet\DS_List.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\string.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__config \
+  jni\vendor\RakNet\PacketPriority.h jni\vendor\RakNet\DS_Queue.h \
+  jni\vendor\RakNet\BitStream.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\math.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\float.h \
+  jni\vendor\RakNet\InternalPacket.h \
+  jni\vendor\RakNet\InternalPacketPool.h \
+  jni\vendor\RakNet\DataBlockEncryptor.h jni\vendor\RakNet\rijndael.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h \
+  jni\vendor\RakNet\RakNetStatistics.h jni\vendor\RakNet\SHA1.h \
+  jni\vendor\RakNet\Types.h jni\vendor\RakNet\DS_OrderedList.h \
+  jni\vendor\RakNet\DS_RangeList.h jni\vendor\RakNet\DS_BPlusTree.h \
+  jni\vendor\RakNet\DS_MemoryPool.h jni\vendor\RakNet\GetTime.h \
+  jni\vendor\RakNet\PluginInterface.h jni\vendor\RakNet\RakAssert.h \
+  jni\vendor\RakNet\Rand.h jni\vendor\RakNet\PacketEnumerations.h \
+  jni\vendor\RakNet\..\..\main.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstdlib \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\string \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\string_view \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__string \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\algorithm \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\initializer_list \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\type_traits \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstring \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\utility \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__tuple \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstdint \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\version \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__debug \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\iosfwd \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\wchar.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\memory \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\typeinfo \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\exception \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\new \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\limits \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\iterator \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__functional_base \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\tuple \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stdexcept \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cassert \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\atomic \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\functional \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\bit \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstdio \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cwchar \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cwctype \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cctype \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\wctype.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\vector \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__bit_reference \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\climits \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\limits.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__split_buffer \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\list \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\sstream \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ostream \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ios \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__locale \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\mutex \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__mutex_base \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\chrono \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ctime \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ratio \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\system_error \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__errc \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cerrno \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\errno.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__threading_support \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\locale.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\support\android\locale_bionic.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\support\xlocale\__posix_l_fallback.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\streambuf \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\locale \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstdarg \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__bsd_locale_fallbacks.h \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\bitset \
+  c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\istream \
+  jni\game\RW\common.h jni\vendor\obfuscate\str_obfuscate.hpp \
+  jni\vendor\raknet\SAMP\samp_netencr.h jni\vendor\raknet\SAMP\SAMPRPC.h \
+  jni\util\util.h
+
+jni\vendor\RakNet\ReliabilityLayer.h:
+
+jni\vendor\RakNet\SocketLayer.h:
+
+jni\vendor\RakNet\ClientContextStruct.h:
+
+jni\vendor\RakNet\NetworkTypes.h:
+
+jni\vendor\RakNet\RakNetDefines.h:
+
+jni\vendor\RakNet\Export.h:
+
+jni\vendor\RakNet\MTUSize.h:
+
+jni\vendor\RakNet\DS_LinkedList.h:
+
+jni\vendor\RakNet\DS_List.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\string.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__config:
+
+jni\vendor\RakNet\PacketPriority.h:
+
+jni\vendor\RakNet\DS_Queue.h:
+
+jni\vendor\RakNet\BitStream.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\math.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\float.h:
+
+jni\vendor\RakNet\InternalPacket.h:
+
+jni\vendor\RakNet\InternalPacketPool.h:
+
+jni\vendor\RakNet\DataBlockEncryptor.h:
+
+jni\vendor\RakNet\rijndael.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h:
+
+jni\vendor\RakNet\RakNetStatistics.h:
+
+jni\vendor\RakNet\SHA1.h:
+
+jni\vendor\RakNet\Types.h:
+
+jni\vendor\RakNet\DS_OrderedList.h:
+
+jni\vendor\RakNet\DS_RangeList.h:
+
+jni\vendor\RakNet\DS_BPlusTree.h:
+
+jni\vendor\RakNet\DS_MemoryPool.h:
+
+jni\vendor\RakNet\GetTime.h:
+
+jni\vendor\RakNet\PluginInterface.h:
+
+jni\vendor\RakNet\RakAssert.h:
+
+jni\vendor\RakNet\Rand.h:
+
+jni\vendor\RakNet\PacketEnumerations.h:
+
+jni\vendor\RakNet\..\..\main.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstdlib:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\string:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\string_view:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__string:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\algorithm:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\initializer_list:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\type_traits:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstring:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\utility:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__tuple:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstdint:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\version:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__debug:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\iosfwd:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\wchar.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\memory:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\typeinfo:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\exception:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\new:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\limits:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\iterator:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__functional_base:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\tuple:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\stdexcept:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cassert:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\atomic:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\functional:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\bit:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstdio:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cwchar:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cwctype:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cctype:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\wctype.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\vector:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__bit_reference:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\climits:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\limits.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__split_buffer:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\list:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\sstream:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ostream:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ios:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__locale:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\mutex:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__mutex_base:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\chrono:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ctime:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\ratio:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\system_error:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__errc:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cerrno:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\errno.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__threading_support:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\locale.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\support\android\locale_bionic.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\support\xlocale\__posix_l_fallback.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\streambuf:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\locale:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\cstdarg:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\__bsd_locale_fallbacks.h:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\bitset:
+
+c:\ndk21\build\\..\sources\cxx-stl\llvm-libc++\include\istream:
+
+jni\game\RW\common.h:
+
+jni\vendor\obfuscate\str_obfuscate.hpp:
+
+jni\vendor\raknet\SAMP\samp_netencr.h:
+
+jni\vendor\raknet\SAMP\SAMPRPC.h:
+
+jni\util\util.h:
