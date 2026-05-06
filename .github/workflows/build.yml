@@ -1,0 +1,30 @@
+name: Build Turan JNI
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: nttld/setup-ndk@v1
+        with:
+          ndk-version: r21e
+          add-to-path: true
+
+      - name: Build
+        run: |
+          cd jni
+          ndk-build NDK_PROJECT_PATH=.. APP_BUILD_SCRIPT=Android.mk NDK_APPLICATION_MK=Application.mk -j$(nproc)
+
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: build-${{ github.run_number }}
+          files: libs/armeabi-v7a/*.so
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
